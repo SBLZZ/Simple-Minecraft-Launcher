@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleMinecraftLauncher": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    }
+  }
+}
